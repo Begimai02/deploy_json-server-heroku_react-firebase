@@ -27,7 +27,10 @@ So, Whenever you update your db.json for example and push your changes to a spec
 
 1. Navigate to Deploy tap and create a pipeline, Connect your GitHub with the fake-server repo.
 <img width="1440" alt="Снимок экрана 2022-04-14 в 19 27 13" src="https://user-images.githubusercontent.com/76545834/163400675-ab0b29c7-ebae-40a5-b74c-26a18b5c521d.png">
+
 2. Connect with github
+<img width="1440" alt="Снимок экрана 2022-04-14 в 19 30 06" src="https://user-images.githubusercontent.com/76545834/163401182-a03eb0e2-4f4b-4a9d-90fe-d8dc34161d3b.png">
+
 3. Configure auto-deploy and choose the branch of the Pipeline
 <img width="1440" alt="Снимок экрана 2022-04-14 в 19 28 01" src="https://user-images.githubusercontent.com/76545834/163400830-923ee684-4c82-469b-bcbe-84b2a0e28ea7.png">
 
