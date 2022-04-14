@@ -37,3 +37,24 @@ So, Whenever you update your db.json for example and push your changes to a spec
 
 Now whenever you push the changes to the selected branch, the database will be updated and can be accessed via the same base API.
 
+//--------------
+
+## How to deploy your front on firebase?
+1. Install firebase tools ```npm install -g firebase-tools```
+2. Create build folder for deploying ```npm run build```
+3. Enter into your firebase account```firebase login```
+4. Setup a firebase context for the current application ```firebase init```
+5. Press space to select the features, than enter to confirm your choice 
+Select first ```Hoisting```
+<img width="889" alt="Снимок экрана 2021-11-30 в 16 08 27" src="https://user-images.githubusercontent.com/76545834/163412479-901f51e6-b77a-4337-a2b7-dc180dc14cd1.png">
+6. Go to the firebase console. And create new project or use an existing project (where you made an auth)
+<img width="889" alt="Снимок экрана 2021-11-30 в 16 08 27" src="https://user-images.githubusercontent.com/76545834/163412905-094d4797-5786-4970-b754-5e798c3bd70a.png">
+7. Select your project and press enter key.
+8. ```build``` folder 
+9. Single app --> ```yes```
+10. Github bla bla --> ```no```
+11. Overwrite --> ```no```
+12. ```firebase deploy```
+<img width="539" alt="firebase-deploy" src="https://user-images.githubusercontent.com/76545834/163413243-fa3a2dad-fd70-4f42-943b-1f3b42e1f08c.png">
+
+
