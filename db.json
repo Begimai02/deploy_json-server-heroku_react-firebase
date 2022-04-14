@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "title": "krevetka",
+      "id": 1,
+      "price": 120,
+      "type": 30,
+      "img": "https://cdn.vox-cdn.com/thumbor/UswYUb9Ve-sg9EN1f0KMAkOUizE=/0x0:1280x721/1200x800/filters:focal(544x281:748x485)/cdn.vox-cdn.com/uploads/chorus_image/image/70124512/naruto.0.jpg"
+    },
+    {
+      "title": "halam-balam ",
+      "id": 2,
+      "price": 1220,
+      "type": 10,
+      "img": "https://tiermaker.com/images/templates/5130931595465480.jpg"
+    },
+    {
+      "title": "Godjo Satoru 2",
+      "type": 20,
+      "price": 2222,
+      "description": "sdfsdf",
+      "img": "https://i.pinimg.com/750x/08/01/f8/0801f8ab865c800622a02a8d2adbfa4d.jpg",
+      "id": 4
+    },
+    {
+      "title": "test",
+      "type": 20,
+      "price": 1300,
+      "description": "sdfsdfsdf",
+      "img": "https://www.omega-level.net/wp-content/uploads/2013/01/Astronaut-time.png",
+      "id": 5
+    },
+    {
+      "title": "new with number price",
+      "type": 30,
+      "price": "400",
+      "description": "sdfsfsdf",
+      "img": "https://i.pinimg.com/750x/08/01/f8/0801f8ab865c800622a02a8d2adbfa4d.jpg",
+      "id": 6
+    },
+    {
+      "title": "hello",
+      "type": 20,
+      "price": "123",
+      "description": "sdfsdf",
+      "img": "https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg",
+      "id": 7
+    },
+    {
+      "title": "testing with plus",
+      "type": 10,
+      "price": 234,
+      "description": "sdasdsd",
+      "img": "https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg",
+      "id": 8
+    }
+  ]
+}
