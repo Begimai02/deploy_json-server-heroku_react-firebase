@@ -1,6 +1,13 @@
 {
   "products": [
     {
+      "title": "crazy girl bgmy",
+      "id": 9,
+      "price": 1200000,
+      "type": 30,
+      "img": "https://cdn.vox-cdn.com/thumbor/UswYUb9Ve-sg9EN1f0KMAkOUizE=/0x0:1280x721/1200x800/filters:focal(544x281:748x485)/cdn.vox-cdn.com/uploads/chorus_image/image/70124512/naruto.0.jpg"
+    },
+    {
       "title": "krevetka",
       "id": 1,
       "price": 120,
