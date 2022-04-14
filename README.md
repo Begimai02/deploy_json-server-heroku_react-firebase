@@ -11,7 +11,7 @@
 5. Create ```db.json``` file, and include your own data from ```db.json``` in react app.
 6. Push everything into github new repo.
 
-#### Second part, heroku
+### Second part, heroku
 1. Create heroku account,
 2. Install heroku-cli. Examples here https://devcenter.heroku.com/articles/heroku-cli
 And check ```heroku --version``` is it installed.
@@ -20,3 +20,9 @@ And check ```heroku --version``` is it installed.
 (Name must start with a letter, end with a letter or digit and can only contain lowercase letters, digits, and dashes.)
 5. Push your app to Heroku ``` git push heroku master ```
 6. Open your created app ```heroku open```
+
+### Creating a Pipeline
+A pipeline is simply a connection between your GitHub repo and your Heroku Project.
+So, Whenever you update your db.json for example and push your changes to a specific branch Heroku will be listening to this branch and build your app with the updated database.
+
+
